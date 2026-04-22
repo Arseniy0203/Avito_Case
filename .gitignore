@@ -1,4 +1,8 @@
 # Игнорируем все данные
 data/
+
 *.csv
 *.parquet
+
+.idea/
+.venv/
